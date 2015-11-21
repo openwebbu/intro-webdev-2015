@@ -1,2 +1,2 @@
-# intro-webdev-2015
-Source code for the Introduction to Web Development Workshop Fall 2015
+# Open Web | Introduction to Web Development Workshop Fall 2015
+Final source code from the workshop
